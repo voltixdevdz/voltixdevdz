@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/voltix-logo.png" alt="Voltix" width="300" />
+  <img src="./voltix-logo.png" alt="Voltix" width="300" />
 
   <h1>Engineering digital solutions that move businesses forward.</h1>
 
